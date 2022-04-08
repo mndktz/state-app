@@ -1,4 +1,4 @@
-# states-appp-vue
+# states-app-vue
 
 ## Project setup
 ```
